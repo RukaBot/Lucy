@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'RUKA BOT'; 
+const BotName = 'LUCYA BOT'; 
 const instagram = 'https://instagram.com/sndrzqy_'; 
 const telegram = 'ikiiii2906'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
@@ -99,7 +99,7 @@ conn.sendMessage(group.gid, "Halo semua!!!", MessageType.extendedText) // say he
 
 }
 //chat
-if (text == 'halo')
+if (text == 'Lucya')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
