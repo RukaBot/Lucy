@@ -103,7 +103,7 @@ if (text == 'Lucya')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
-else if (text == 'hai')
+else if (text == 'Siapa owner Lucya?')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
@@ -115,7 +115,7 @@ else if (text == 'bro')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'Siapa owner lucya')
+else if (text == 'p')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
 }
@@ -131,7 +131,7 @@ else if (text == 'Halo')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
-else if (text == 'Hai')
+else if (text == 'Siapa owner lucya')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
@@ -151,7 +151,7 @@ else if (text == 'Test')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
-else if (text == 'HAI')
+else if (text == 'Siapa owner lucya?')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
