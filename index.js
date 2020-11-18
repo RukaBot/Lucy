@@ -115,7 +115,7 @@ else if (text == 'bro')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'p')
+else if (text == 'Siapa owner lucya')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
 }
